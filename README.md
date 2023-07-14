@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi, I'm Vasya - Back-end developer
+### Looking for a development team
 
 <!--
 **VasyaIT/VasyaIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
